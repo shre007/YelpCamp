@@ -1,2 +1,2 @@
 # YelpCamp
-A campgrounds/tourist application built using Node.js with MongoDB as the database 
+This is a campground/tourist full stack application using MEN stack, where MongoDB was used as the database, Express.js was used as an application framework and Node.js was used for server side development. The application was designed using the Semantic UI as well as Bootstrap framework. Users can create, edit or delete the details of campgrounds like name, price per night, image of the campground as well as post, edit or delete comments only on the campgrounds they have created. Authentication and authorization was done on the full stack application using Passport.js middleware. 
